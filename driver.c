@@ -1,8 +1,7 @@
 /*
  * driver.c
  *
- *  Created on: Oct 8, 2016
- *      Author: jesus89garza
+ *      Author: jesus garza
  */
 
 #include "drinkmachine.h"
