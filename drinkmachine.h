@@ -1,8 +1,7 @@
 /*
  * drinkmachine.h
  *
- *  Created on: Oct 7, 2016
- *      Author: jesus89garza
+ *      Author: jesus garza
  */
 
 #ifndef DRINKMACHINE_H_
