@@ -1,8 +1,7 @@
 /*
  * drinkMachineDriver.c
  *
- *  Created on: Oct 10, 2016
- *      Author: jesus89garza
+ *      Author: jesus garza
  */
 #include <stdio.h>
 #include <stdlib.h>
